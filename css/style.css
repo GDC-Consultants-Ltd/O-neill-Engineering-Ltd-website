@@ -868,7 +868,7 @@ a:focus {
 }
 
 .video .btn-play:hover:after {
-  background-color: #e5a728; /* Used a darker shade of yellow for hover */
+  background-color: #ffffff; /* Used a darker shade of yellow for hover */
 }
 
 .video .btn-play img {
